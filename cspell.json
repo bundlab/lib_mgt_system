@@ -1,0 +1,29 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+      "ttkbootstrap",
+      "psycopg",
+      "bootstyle",
+      "Tableview",
+      "autofit",
+      "stripecolor",
+      "mainloop",
+      "themename",
+      "pack_propagate",
+      "padx",
+      "pady",
+      "pyzbar",
+      "imshow",
+      "venv",
+      "coldata",
+      "pylance",
+      "columnspan",
+      "rowdata",
+      "pycache"
+    ],
+    "ignorePaths": [
+      "venv/**",
+      "__pycache__/**"
+    ]
+  }
